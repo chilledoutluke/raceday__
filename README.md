@@ -1,2 +1,2 @@
 # raceday__
-practicing conditionals in real world scenarios
+applying conditionals in the form of a race day registration.
